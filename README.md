@@ -25,6 +25,8 @@
    1. [x] Git Pull i Commit
    2. [x] Używanie tagów
    3. [x] Używanie branches (branch)
+   4. [x] Git Push Tags
+   5. [x] Mergin Branches
  ## Powiązane kursy
  | NAZWA KURSU | ADRES URL | POZIOM KURSU |
  |-------------|-----------|--------------|
