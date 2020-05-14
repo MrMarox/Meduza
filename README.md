@@ -11,7 +11,14 @@
    3. [x] Krótkie omówienie projektów  
 2. [x] Instalacja i konfiguracja GIT  
    1. [x] Konfiguracja środowiska Windows  
-   2. [ ] Konfiguracja i instalacja Visual Studio Code  
+   2. [x] Konfiguracja i instalacja Visual Studio Code  
+3. [x] Git Must Know
+   1. [x] Tworzymy pierwszy projekt w Gitlab i git clone
+   2. [x] Git comit - pierwsze zmiany w repo
+   3. [x] Markdown - Nasz plik REDEME.md
+   4. [x] Windows Command line git
+   5. [x] .gitignore
+   6. [ ] Gitlab branch
  
  ## Powiązane kursy
  | NAZWA KURSU | ADRES URL | POZIOM KURSU |
