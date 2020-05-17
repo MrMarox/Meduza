@@ -29,6 +29,7 @@
    5. [x] Mergin Branches
    6. [x] Rebasing
    7. [x] Reverting a Commit - odwracanie zmian
+   8. [x] Komenda diff
  ## Powiązane kursy
  | NAZWA KURSU | ADRES URL | POZIOM KURSU |
  |-------------|-----------|--------------|
