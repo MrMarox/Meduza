@@ -21,7 +21,7 @@
    6. [x] Gitlab branch
    7. [x] Merge Request
    8. [x] Staging i commiting w Web IDE
- 4. [] Git pull, commit, push, tags, branch, merging and reverting
+ 4. [x] Git pull, commit, push, tags, branch, merging and reverting
    1. [x] Git Pull i Commit
    2. [x] Używanie tagów
    3. [x] Używanie branches (branch)
@@ -30,6 +30,8 @@
    6. [x] Rebasing
    7. [x] Reverting a Commit - odwracanie zmian
    8. [x] Komenda diff
+5. [] Branch Menagment
+   1. [x] Force Push na zdalne repozytorum
  ## Powiązane kursy
  | NAZWA KURSU | ADRES URL | POZIOM KURSU |
  |-------------|-----------|--------------|
