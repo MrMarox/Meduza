@@ -27,6 +27,8 @@
    3. [x] Używanie branches (branch)
    4. [x] Git Push Tags
    5. [x] Mergin Branches
+   6. [x] Rebasing
+   7. [x] Reverting a Commit - odwracanie zmian
  ## Powiązane kursy
  | NAZWA KURSU | ADRES URL | POZIOM KURSU |
  |-------------|-----------|--------------|
