@@ -30,8 +30,16 @@
    6. [x] Rebasing
    7. [x] Reverting a Commit - odwracanie zmian
    8. [x] Komenda diff
-5. [] Branch Menagment
+5. [x] Branch Menagment
    1. [x] Force Push na zdalne repozytorum
+   2. [x] Identyfikacja branchy
+   3. [x] Usówanie lokalnego i zadalnego branch
+   4. [x] Prune stale branch
+   5. [x] Trochę więcej o git log
+   6. [x] Tagging
+6. [] Interactive Staging
+   1. [x] Interactive mode 
+   
  ## Powiązane kursy
  | NAZWA KURSU | ADRES URL | POZIOM KURSU |
  |-------------|-----------|--------------|
