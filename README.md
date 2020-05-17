@@ -32,3 +32,4 @@
  |-------------|-----------|--------------|
  |Dobre praktyki pracy w zespole|https://strefakursow.pl/kursy/programowanie/dobre_praktyki_pracy_w_zespole.html|Średniozaawansowany|
 
+654754745754
